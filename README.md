@@ -16,4 +16,12 @@ URL https://github.com/chanjuping/coingame
 
 Team Members: Chan JP
 
-URL: 
+URL:
+
+## MASQUERAIN
+
+Team Members: Ayman Hafeez Bin Mohd Huzaizi
+              Nur 'Ain Khadijah Binti Suhaimi
+              Hanis Maisarah Binti Norazman
+
+URL: https://github.com/TheRLMacaron/EPYTHRION-Early-Access
