@@ -4,7 +4,7 @@ The following are the list of competitors who will be showcasing their games at 
 
 The entries are to be submitted according to the following format.
 
-# Competitors
+# Example template for Pull Request Submissions
 
 ## Penang Science Cluster 
 
@@ -12,14 +12,14 @@ Team Members : Chan Ju Ping
 
 URL : https://github.com/chanjuping/coingame
 
-## GODOT FINALISTS
+# GODOT FINALISTS
 
 ## The Zombie Squad!
 
-Team Members :  
+Team Members:  
 
--Tatharaj  
--Emilda Husna  
--Amirul Asyraff
+1. Tatharaj  
+1. Emilda Husna  
+1. Amirul Asyraff
 
 Game URL : https://github.com/TechsLearner2/J.O.R.T.N.git
