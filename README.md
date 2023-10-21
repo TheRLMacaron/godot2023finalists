@@ -8,12 +8,16 @@ The entries are to be submitted according to the following format.
 
 ## Penang Science Cluster 
 
-Team Members: Chan Ju Ping  
+Tutor Name: Chan Ju Ping  
 
-URL https://github.com/chanjuping/coingame
+Tutor Example Game : https://github.com/chanjuping/coingame
 
-## Georgetown Technology Solutions
+## GODOT FINALISTS
 
-Team Members: Chan JP
+Team Name : The Zombie Squad!
 
-URL: 
+Team Members :  Tatharaj 
+                Emilda Husna
+                Amirul Asyraff
+
+Game URL : https://github.com/TechsLearner2/J.O.R.T.N.git
