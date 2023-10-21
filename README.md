@@ -16,8 +16,10 @@ Tutor Example Game : https://github.com/chanjuping/coingame
 
 Team Name : The Zombie Squad!
 
-Team Members :  Tatharaj 
-                Emilda Husna
-                Amirul Asyraff
+Team Members :  
+
+-Tatharaj  
+-Emilda Husna  
+-Amirul Asyraff
 
 Game URL : https://github.com/TechsLearner2/J.O.R.T.N.git
